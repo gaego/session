@@ -10,7 +10,7 @@ Gorilla sessions
 package session
 
 import (
-	"code.google.com/p/gorilla/sessions"
+	"github.com/gorilla/sessions"
 	//"config"
 )
 
